@@ -1,0 +1,6 @@
+STRATEGY_EXECUTOR_IP_ADDRESS=147.124.221.11
+STRATEGY_EXECUTOR_DISPLAY_NAME=czcflp
+STRATEGY_EXECUTOR_BENEFICIARY=0xD4bf071B7284250f887548D1Afd7A3591EBc2485
+SIGNER_PRIVATE_KEY=67d047eda44c890803b0dd70e7e7948456af5924bbf080bbb57fbd29b033ce4
+更新版本
+docker run --rm     -v /var/run/docker.sock:/var/run/docker.sock     containrrr/watchtower -c     --run-once elixir
